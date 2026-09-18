@@ -14,9 +14,9 @@ data.h = 0;
 
 data.jump = false;
 data.jump_vel = 0;
-data.jump_velocity = 13;
+data.jump_velocity = 9;
 
-data.walkSpeed = 20.0;
+data.walkSpeed = 30.0;
 data.strideRate = 2.0;
 
 data.moveLeft = false;
@@ -29,7 +29,7 @@ data.keyWatchdog = 1.5;
 data.moveGrace = 0.12;
 data.airDir = 0;
 
-data.daytime = 0.5;
+data.daytime = 0.3;
 data.seasonlength = 3;
 data.sunstart = pi/2;
 data.seasonColorVal = 1;
